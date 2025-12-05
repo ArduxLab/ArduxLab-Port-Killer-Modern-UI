@@ -25,7 +25,6 @@ KLLER TASK-PID-PORT/
 ├─ killer-v1.0.py
 ├─ killer-v2.0.py
 ├─ README.md
-└─ requirements.txt
 ```
 
 ---
@@ -34,6 +33,11 @@ KLLER TASK-PID-PORT/
 
 - Python 3.x  
 - Modules: `psutil` (`pip install psutil`)  
+
+**Install modules langsung via pip**:
+```bash
+pip install psutil
+```
 
 ---
 
